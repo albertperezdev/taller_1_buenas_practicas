@@ -41,3 +41,10 @@ h1 {
     height: auto;
     border-radius: 8px;
 }
+.serie:hover {
+    transform: scale(1.005);
+}
+
+.serie:hover img {
+    transform: scale(1.03);
+}
